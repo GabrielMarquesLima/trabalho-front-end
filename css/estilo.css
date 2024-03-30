@@ -19,6 +19,9 @@ h1 {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
+#menu ul {
+    text-align: center;
+}
 h2{
     font-family: 'Times New Roman', Times, serif;
 }
@@ -42,8 +45,8 @@ h2{
         }
     }
 }
-#menu ul {
-    text-align: center;
+#conteudo-principal{
+    line-height: 1.5;
 }
 nav a{
     font-weight: bold;
