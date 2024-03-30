@@ -4,7 +4,6 @@
 html{
     font-size: 16px;
 }
-
 #cabecalho{
     font-size: 62.5%;/* 1rem = 10px */
     /* background-image: url('../img/img-01-banner-1280×640.png'); */
@@ -14,9 +13,6 @@ html{
     background-size: cover;
     background-color: blue;
 }
-
-/*Exemplo de seletores*/
-/*Seletores de tipo*/
 h1 {
     color: red;
     font-size: 5em;
@@ -26,7 +22,6 @@ h1 {
 h2{
     font-family: 'Times New Roman', Times, serif;
 }
-
 .link {
     display: inline-block;
     margin: 0 5% 1% 5%;
@@ -49,8 +44,9 @@ h2{
     }
 
 }
-
-/*Seletores de ID*/
 #menu ul {
     text-align: center;
+}
+nav a{
+    font-weight: bold;
 }
