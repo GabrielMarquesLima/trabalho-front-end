@@ -1,12 +1,12 @@
-/* Estilo para el h1 */
-
-/*Exemplo de regra CSS*/
 html{
     font-size: 16px;
 }
+.container{
+    padding: 20px;
+}
 #cabecalho{
     font-size: 62.5%;/* 1rem = 10px */
-    /* background-image: url('../img/img-01-banner-1280×640.png'); */
+    background-image: url('../img/img-01-banner-1280×640.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -33,7 +33,6 @@ h2{
     &:hover{
         background-color: red;
     }
-
     a{
         text-decoration: none;
         color: red;
@@ -42,7 +41,6 @@ h2{
             width: 50%;
         }
     }
-
 }
 #menu ul {
     text-align: center;
