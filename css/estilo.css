@@ -48,6 +48,9 @@ h2{
 #conteudo-principal{
     line-height: 1.5;
 }
+form{
+    border: 1px solid gray;
+}
 nav a{
     font-weight: bold;
 }
