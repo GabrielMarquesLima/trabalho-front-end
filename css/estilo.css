@@ -6,12 +6,16 @@ html{
 }
 #cabecalho{
     font-size: 62.5%;/* 1rem = 10px */
-    background-image: url('../img/img-01-banner-1280×640.png');
+    background-image: url('../img/img-01-banner.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     background-color: blue;
+}
+#cabecalho > nav > ul > li > a > img{
+    width: 64px;
+    margin: 10px;
 }
 h1 {
     color: red;
