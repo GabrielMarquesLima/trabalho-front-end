@@ -23,11 +23,11 @@ h1 {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
-#menu ul {
-    text-align: center;
-}
 h2{
     font-family: 'Times New Roman', Times, serif;
+}
+#menu ul {
+    text-align: center;
 }
 .link {
     display: inline-block;
